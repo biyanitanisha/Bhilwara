@@ -1,2 +1,2 @@
-# Bhilwara_NDVI
-Sample NDVI of Bhilwara 2025
+# Bhilwara
+Sample NDVIand NDWI of Bhilwara 2025
